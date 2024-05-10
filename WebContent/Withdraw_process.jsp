@@ -37,7 +37,7 @@
 				<h4 class="alert-heading">Success!</h4>
 				<p>
 					<strong>Your Withdraw operation is complete.</strong>
-				</p>
+				</p> sss
 				<p class="mb-0">
 					<b>Account Number: </b>
 					<%=ac.getAccount_no()%>
